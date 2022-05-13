@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Kevin Topete aka @techano, im a highschool student and...
 - 👀 I’m interested in web development and self hosting
 - 🌱 I’m currently learning web development @ freecodecamp
+- 🌐 My personal website is www.kevintopete.com
+- 🌐 My on going project is www.spelf.org
 - 📫 You can reach me at me@kevintopete.com
 
 <!---
