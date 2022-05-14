@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin Topete aka @techano, im a highschool student and...
-- 👀 I’m interested in web development and self hosting
+- 👀 I’m interested in web development and UX design
 - 🇲🇽 I'm a native spanish speaker
 - 🌱 I’m currently learning web development @ freeCodeCamp & UX design @ Google
 - 🌐 My personal website is www.kevintopete.com
